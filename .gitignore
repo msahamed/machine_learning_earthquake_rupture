@@ -15,3 +15,5 @@ __pycache__/
 *.png
 *.svg
 *.ai
+Baysian_neural_network.ipynb
+random_seed_100_149.hdf5
