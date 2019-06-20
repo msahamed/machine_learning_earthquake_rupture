@@ -6,7 +6,6 @@ dot_data
 .ipynb_checkpoints/
 .DS_Store
 *.csv
-data/
 *.pkl
 *.py
 __pycache__/
